@@ -8,3 +8,5 @@ Eat Leaves.
 
 ## Usage
 Run `Index.html` in any web browser.
+
+Use WASD keys to move
